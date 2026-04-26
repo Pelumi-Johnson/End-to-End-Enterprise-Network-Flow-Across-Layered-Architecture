@@ -34,7 +34,7 @@ Server0 configured for DNS service using address 200.1.3.10
 Logical Flow
 PC to Switch3 to Router2 to Router4 to Router5 to Server0 and back
 
-Screenshot Placeholder Topology
+Topology
 ![Network Topology](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20200400.png)
 
 ## Configuration
@@ -93,8 +93,8 @@ interface fastEthernet 0/24
 switchport mode trunk
 exit
 ```
-Screenshot Placeholder VLAN Config
-![VLAN Config](./screenshots/vlan-config.png)
+VLAN Config
+![VLAN Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20200426.png)
 
 ---
 
