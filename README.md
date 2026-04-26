@@ -182,7 +182,7 @@ NAT Config
 ```
 ip route 0.0.0.0 0.0.0.0 200.1.1.2
 ```
-Screenshot Placeholder Router2 Static Route
+Router2 Static Route
 ![Router2 Static Route](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20202708.png)
 
 ---
@@ -192,11 +192,11 @@ Screenshot Placeholder Router2 Static Route
 show ip interface brief
 show ip route
 ```
-Screenshot Placeholder Router2 Interface Brief
-![Router2 Interface Brief](./screenshots/router2-interface-brief.png)
+Router2 Interface Brief
+![Router2 Interface Brief]()
 
-Screenshot Placeholder Router2 Route Table
-![Router2 Route Table](./screenshots/router2-route-table.png)
+Router2 Route Table
+![Router2 Route Table](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20203228.png)
 
 ---
 
