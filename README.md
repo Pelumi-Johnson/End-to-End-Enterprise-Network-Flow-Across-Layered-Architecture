@@ -212,7 +212,7 @@ no shutdown
 
 ip route 200.1.3.0 255.255.255.0 200.1.2.2
 ```
-Screenshot Placeholder Router4 Config
+Router4 Config
 ![Router4 Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20214003.png)
 
 ---
@@ -229,7 +229,7 @@ no shutdown
 
 ip route 200.1.1.0 255.255.255.0 200.1.2.1
 ```
-Screenshot Placeholder Router5 Config
+Router5 Config
 ![Router5 Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20214102.png)
 
 ---
@@ -244,10 +244,10 @@ Default Gateway 200.1.3.1
 DNS Record
 pelumi.com mapped to 200.1.3.10
 ```
-Screenshot Placeholder Server IP Config
+Server IP Config
 ![Server IP Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20214205.png)
 
-Screenshot Placeholder DNS Config
+DNS Config
 ![DNS Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20214242.png)
 
 ---
@@ -262,13 +262,13 @@ Expected Results
 - IT clients receive 192.168.20.0/24 addressing
 - Finance clients receive 192.168.30.0/24 addressing
 
-Screenshot Placeholder HR DHCP Validation
-![HR DHCP Validation](./screenshots/hr-dhcp-validation.png)
+HR DHCP Validation
+![HR DHCP Validation](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20201637.png)
 
-Screenshot Placeholder IT DHCP Validation
+IT DHCP Validation
 ![IT DHCP Validation](./screenshots/it-dhcp-validation.png)
 
-Screenshot Placeholder Finance DHCP Validation
+Finance DHCP Validation
 ![Finance DHCP Validation](./screenshots/finance-dhcp-validation.png)
 
 ---
@@ -285,10 +285,10 @@ ping 192.168.20.2
 Result
 Initial routing confirmed traffic could move between VLANs through Router2 before ACL restrictions were enforced
 
-Screenshot Placeholder HR to Finance Ping
+HR to Finance Ping
 ![HR to Finance Ping](./screenshots/hr-to-finance-ping.png)
 
-Screenshot Placeholder Finance to IT Ping
+Finance to IT Ping
 ![Finance to IT Ping](./screenshots/finance-to-it-ping.png)
 
 ---
