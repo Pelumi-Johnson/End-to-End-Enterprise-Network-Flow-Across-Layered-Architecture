@@ -322,32 +322,6 @@ IT Full Access
 
 ---
 
-### Step 4 Router Interface Verification
-Verified Router2 subinterfaces and external interface status
-```
-show ip interface brief
-```
-Result
-VLAN subinterfaces and external interface were active and assigned to the correct IP networks
-
-Screenshot Placeholder Interface Verification
-![Interface Verification](./screenshots/interface-verification.png)
-
----
-
-### Step 5 Static Routing Validation
-Verified routed paths across Router2 Router4 and Router5
-```
-show ip route
-```
-Result
-Static routes provided forward and return paths between internal translated traffic and the server network
-
-Screenshot Placeholder Static Route Validation
-![Static Route Validation](./screenshots/static-route-validation.png)
-
----
-
 ### Step 6 NAT Translation Validation
 Validated NAT overload for internal VLAN traffic exiting toward the external network
 ```
