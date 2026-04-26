@@ -98,7 +98,7 @@ VLAN Config
 
 ---
 
-### Router2 Inter VLAN Routing Configuration
+### Router2 Inter VLAN Routing Configuration/DHCP Configuration
 ```
 interface gigabitEthernet 0/0
 no shutdown
@@ -123,12 +123,8 @@ ip address 200.1.1.1 255.255.255.0
 ip nat outside
 no shutdown
 ```
-Screenshot Placeholder Router2 Subinterfaces
-![Router2 Subinterfaces](./screenshots/router2-subinterfaces.png)
-
 ---
 
-### Router2 DHCP Configuration
 ```
 ip dhcp pool HR
 network 192.168.10.0 255.255.255.0
@@ -145,8 +141,8 @@ network 192.168.30.0 255.255.255.0
 default-router 192.168.30.1
 dns-server 200.1.3.10
 ```
-Screenshot Placeholder DHCP Config
-![DHCP Config](./screenshots/dhcp-config.png)
+Router2 Subinterfaces
+![Router2 Subinterfaces](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20201247.png)
 
 ---
 
