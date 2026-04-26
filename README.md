@@ -193,7 +193,7 @@ show ip interface brief
 show ip route
 ```
 Router2 Interface Brief
-![Router2 Interface Brief]()
+![Router2 Interface Brief](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20203059.png)
 
 Router2 Route Table
 ![Router2 Route Table](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20203228.png)
