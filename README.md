@@ -287,7 +287,7 @@ Result
 Initial routing confirmed traffic could move between VLANs through Router2 before ACL restrictions were enforced
 
 HR to Finance Ping
-![HR to Finance Ping](./screenshots/hr-to-finance-ping.png)
+![HR to Finance Ping](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20201820.png)
 
 Finance to IT Ping
 ![Finance to IT Ping](./screenshots/finance-to-it-ping.png)
