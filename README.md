@@ -266,10 +266,11 @@ HR DHCP Validation
 ![HR DHCP Validation](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20201637.png)
 
 IT DHCP Validation
-![IT DHCP Validation](./screenshots/it-dhcp-validation.png)
+![IT DHCP Validation](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20201651.png)
 
 Finance DHCP Validation
-![Finance DHCP Validation](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20201651.png)
+![Finance DHCP Validation](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20201704.png)
+
 
 ---
 
