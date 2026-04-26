@@ -183,7 +183,7 @@ NAT Config
 ip route 0.0.0.0 0.0.0.0 200.1.1.2
 ```
 Screenshot Placeholder Router2 Static Route
-![Router2 Static Route](./screenshots/router2-static-route.png)
+![Router2 Static Route](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20202708.png)
 
 ---
 
