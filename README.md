@@ -248,7 +248,7 @@ Screenshot Placeholder Server IP Config
 ![Server IP Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20214205.png)
 
 Screenshot Placeholder DNS Config
-![DNS Config](./screenshots/dns-config.png)
+![DNS Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20214242.png)
 
 ---
 
