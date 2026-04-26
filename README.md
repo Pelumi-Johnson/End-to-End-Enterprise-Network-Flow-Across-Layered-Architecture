@@ -309,16 +309,16 @@ Result destination unreachable confirming Finance cannot reach IT
 IT to HR and Finance
 ping 192.168.10.2
 ping 192.168.30.3
-Result successful confirming IT has full access
+Result successful confirming IT has full access. It could reach both vlan but vlan 30 is restricted from responding back so it timed out
 ```
 HR Blocked from Finance
 ![HR Blocked from Finance](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20202737.png)
 
-Screenshot Placeholder Finance Blocked from IT
+Finance Blocked from IT
 ![Finance Blocked from IT](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20202805.png)
 
 IT Full Access
-![IT Full Access](./screenshots/it-full-access.png)
+![IT Full Access](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20225336.png)
 
 ---
 
@@ -329,7 +329,7 @@ show ip interface brief
 ```
 Result
 VLAN subinterfaces and external interface were active and assigned to the correct IP networks
-```
+
 Screenshot Placeholder Interface Verification
 ![Interface Verification](./screenshots/interface-verification.png)
 
