@@ -173,8 +173,8 @@ access-list 1 permit 192.168.30.0 0.0.0.255
 
 ip nat inside source list 1 interface gigabitEthernet 0/1 overload
 ```
-Screenshot Placeholder NAT Config
-![NAT Config](./screenshots/nat-config.png)
+NAT Config
+![NAT Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20205054.png)
 
 ---
 
