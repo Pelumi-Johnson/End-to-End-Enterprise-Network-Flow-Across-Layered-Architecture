@@ -213,7 +213,7 @@ no shutdown
 ip route 200.1.3.0 255.255.255.0 200.1.2.2
 ```
 Screenshot Placeholder Router4 Config
-![Router4 Config](./screenshots/router4-config.png)
+![Router4 Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20214003.png)
 
 ---
 
