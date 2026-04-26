@@ -230,7 +230,7 @@ no shutdown
 ip route 200.1.1.0 255.255.255.0 200.1.2.1
 ```
 Screenshot Placeholder Router5 Config
-![Router5 Config](./screenshots/router5-config.png)
+![Router5 Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20214102.png)
 
 ---
 
