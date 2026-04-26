@@ -160,8 +160,8 @@ ip access-group 100 in
 interface gigabitEthernet 0/0.30
 ip access-group 110 in
 ```
-Screenshot Placeholder ACL Config
-![ACL Config](./screenshots/acl-config.png)
+ACL Config
+![ACL Config](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20202708.png)
 
 ---
 
