@@ -360,8 +360,8 @@ DNS resolves pelumi.com to 200.1.3.10
 Server response returns through Router5 and Router4
 Router2 translates return traffic and delivers it back to the correct VLAN host
 ```
-Screenshot Placeholder End to End Flow
-![End to End Flow](./screenshots/end-to-end-flow.png)
+End to End Flow
+![End to End Flow](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Animation.gif)
 
 ---
 
