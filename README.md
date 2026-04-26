@@ -330,7 +330,7 @@ show ip nat translations
 Result
 Internal private addresses were translated through Router2 outside interface for external communication
 
-Screenshot Placeholder NAT Translation
+NAT Translation
 ![NAT Translation](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20205054.png)
 
 ---
@@ -343,7 +343,7 @@ ping pelumi.com
 Result
 Domain resolved to 200.1.3.10 and traffic reached the server through the routed path
 
-Screenshot Placeholder DNS Resolution
+DNS Resolution
 ![DNS Resolution](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20231015.png)
 
 ---
