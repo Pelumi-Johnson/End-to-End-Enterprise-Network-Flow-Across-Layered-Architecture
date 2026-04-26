@@ -311,13 +311,13 @@ ping 192.168.10.2
 ping 192.168.30.3
 Result successful confirming IT has full access
 ```
-Screenshot Placeholder HR Blocked from Finance
+HR Blocked from Finance
 ![HR Blocked from Finance](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20202737.png)
 
 Screenshot Placeholder Finance Blocked from IT
-![Finance Blocked from IT](./screenshots/finance-blocked-it.png)
+![Finance Blocked from IT](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20202805.png)
 
-Screenshot Placeholder IT Full Access
+IT Full Access
 ![IT Full Access](./screenshots/it-full-access.png)
 
 ---
