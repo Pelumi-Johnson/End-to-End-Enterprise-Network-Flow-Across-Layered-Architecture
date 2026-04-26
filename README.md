@@ -331,7 +331,7 @@ Result
 Internal private addresses were translated through Router2 outside interface for external communication
 
 Screenshot Placeholder NAT Translation
-![NAT Translation](./screenshots/nat-translation.png)
+![NAT Translation](https://github.com/Pelumi-Johnson/End-to-End-Enterprise-Network-Flow-Across-Layered-Architecture/blob/main/Screenshot%202026-04-25%20205054.png)
 
 ---
 
